@@ -1,6 +1,6 @@
 <?tyhp
 
-namespace OverlayTests\BrickMath018Fail;
+namespace OverlayTests\BrickMathFail;
 
 function of_rejects_bool(): \Brick\Math\BigInteger
 {
